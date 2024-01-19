@@ -1,0 +1,109 @@
+body{
+    display: flex;
+    background-color: bisque;
+}
+.left{
+    display: flex;
+    flex-direction: row;
+   
+}
+.formateur img {
+    width: 80%;
+    margin-top: 20%;
+}
+.formateur{
+    margin-right: 40%;
+}
+.salle.informatique{
+    display: flex;
+    flex-direction: column;
+}
+.center-table{
+    justify-content: center;
+    flex-direction: column;
+    display: flex;
+    width: 30%;
+    margin-left: 45%;
+    
+}
+.bureaux{
+display: flex;
+
+}
+.bouton{
+    border-radius: 30%;
+    background-color: rgb(235, 185, 69);
+    border: 2px solid rgb(18, 17, 15);
+}
+
+.coffee-table img {
+    width:40%;
+    margin-left: 90%;
+}
+
+.back-table.table1{
+    margin-top: 10%;
+    margin-left: 20%;
+
+}
+.entrance-tables.table{
+    margin-top: 10%;
+
+}
+.places{
+    background-color: rgb(218, 163, 67);
+    border-radius: 5px;
+}
+
+.span16{
+    margin-left: 30px;
+}
+
+.span15{
+    margin-left:30px
+}
+.span1{
+    margin-left: 30px;
+}
+.span2{
+    margin-left: 30px;
+}
+.span3{
+    margin-left: 30px;
+}
+
+.span4{
+    margin-left:30px
+}
+.span5{
+    margin-left: 30px;
+}
+.span6{
+    margin-left: 30px;
+}
+.span7{
+    margin-left: 30px;
+}
+
+.span8{
+    margin-left:30px
+}
+.span9{
+    margin-left: 30px;
+}
+.span10{
+    margin-left: 30px;
+}
+.span11{
+    margin-left: 30px;
+}
+
+.span12{
+    margin-left:30px
+}
+.span13{
+    margin-left: 30px;
+}
+.span14{
+    margin-left: 30px;
+}
